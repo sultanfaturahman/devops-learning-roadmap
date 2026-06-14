@@ -24,3 +24,5 @@ Materi:
 
 
 Hari 5: belajar git basic.
+
+Hari 6: Belajar git branch, remote, merge, dan github.
