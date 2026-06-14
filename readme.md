@@ -21,3 +21,6 @@ Materi:
 - Log analysis
 - Process and service
 - Git basic
+
+
+Hari 5: belajar git basic.
