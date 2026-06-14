@@ -1,0 +1,1 @@
+dari awal
