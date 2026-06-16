@@ -1,0 +1,7 @@
+INFO: Application started
+INFO: Connected to database
+WARNING: Slow query detected
+ERROR: Failed to connect to payment service
+INFO: User created new order
+ERROR: Database timeout
+INFO: Application stopped
