@@ -81,3 +81,5 @@ git add .
 git commit -m "message"
 git log --oneline
 git diff
+
+Latihan push branch ke github dan membuat pull request
